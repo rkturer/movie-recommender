@@ -1,13 +1,17 @@
 # movie-recommender
-A movie recommending program 
+Project in Progress!!!
+
+🎬🎬🎬 A movie recommending program 🎬🎬🎬
 
 **phase one**
-Got two data sets (movies.csv and ratings.csv) off of Movie Lens 
+Downloaded three data sets (movies.dat, user.dat and ratings.dat) off of Movie Lens 
 Cleaned and explored the data using Jupyter Notebook 
-Created a "cleaned-movies.csv" which includes MovieID, Rating (average rating for movies w/ >5 ratings), Genre, and Title
+Created a "cleaned_movies.csv" which includes MovieID, Rating (average rating for movies w/ >5 ratings), Genre, and Title
 
 **phase two**
-Created a python file to take user input and return the highest rated movie
+Created a python file to give movie recommendations
+the "user_input.py" file handles user input in the terminal and return the genre of the user's choosing
+The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user
 
 
 
