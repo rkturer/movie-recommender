@@ -15,9 +15,9 @@ Created a "cleaned_movies.csv" which includes MovieID, Rating (average rating fo
 
 Created a python file to give movie recommendations
 
-the "user_input.py" file handles user input in the terminal and return the genre of the user's choosing
+the "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
 
-The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user
+The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user chose
 
 
 
