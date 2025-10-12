@@ -13,12 +13,19 @@ Created a "cleaned_movies.csv" which includes MovieID, Rating (average rating fo
 
 **phase two**
 
-Created a python file to give movie recommendations
+Created a python files to give movie recommendations
 
 the "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
 
 The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user chose
 
+**phase three**
 
+Created a new python file "where_to_watch.py" that uses The Movie Data Base (TMDb) API 
+I used deotenv to manage API-Keys securely 
+Retrieves where a movie could be in real time:
+  Streamed: Netflix, Disney Plus, Hulu, etc 
+  Bought
+  Rented 
 
 
