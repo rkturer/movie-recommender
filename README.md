@@ -22,10 +22,10 @@ The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves th
 ## Phase Three
 
 Created a new python file "where_to_watch.py" that uses The Movie Data Base (TMDb) API 
-I used deotenv to manage API-Keys securely 
+I used dotenv to manage API-Keys securely 
 Retrieves where a movie could be in real time:
-  -Streamed: Netflix, Disney Plus, Hulu, etc 
-  -Bought
-  -Rented 
+  - Streamed: Netflix, Disney Plus, Hulu, etc 
+  - Bought
+  - Rented 
 
 
