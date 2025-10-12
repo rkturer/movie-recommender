@@ -27,12 +27,12 @@ Retrieves where a movie could be in real time:
   - Streamed: Netflix, Disney Plus, Hulu, etc 
   - Bought or Rented
 
-## HOW TO RUN MY PROGRAM 
-
+## How To Run The Project
 1. Clone my repo:
 ```bash
 git clone https://github.com/rkturer/movie-recommender.git
 cd movie-recommender
+```
 
 2. Install Dependencies:
 This project requires:
@@ -42,16 +42,19 @@ This project requires:
 
 ```bash
 pip install pandas requests python-dotenv
+```
 
 3. Add/Create your API-KEY
 - If you already have a key:
 Create an .env file and add
 ```ini
 TMDB_API_KEY=your_api_key_here
+```
 
 4. Run the program
 ```bash
 python recommender.py
+```
 
 5. Follow the Terminal Prompts
 - It will ask if you know the movie genre you want to watch
@@ -61,7 +64,7 @@ python recommender.py
 ## Future Updates
 - Front End Interface (HTML, CSS, Flask, etc)
 - Personalization of Recommendations
-- Recommendations with garuanteed ways to watch in the US
+- Recommendations with guaranteed ways to watch in the US
 
 ## About the creator
 - Rachel Turer - Computer Science and Statistics Major At BU
@@ -69,6 +72,6 @@ python recommender.py
 - LinkedIn [Link Text](https://www.linkedin.com/in/rkturer/)
 
 
-  - Rented 
+
 
 
