@@ -1,33 +1,28 @@
-# movie-recommender
-Project in Progress!!!
+# **Project in Progress!!!**
 
-🎬🎬🎬 A movie recommending program 🎬🎬🎬
+## 🎬🎬🎬 A movie recommending program 🎬🎬🎬
 
-## Phase One
+## **Phase One**
 
-Downloaded three data sets (movies.dat, user.dat and ratings.dat) off of Movie Lens 
+- Downloaded three data sets (movies.dat, user.dat and ratings.dat) off of Movie Lens 
+- Cleaned and explored the data using Jupyter Notebook 
+- Created a "cleaned_movies.csv" which includes MovieID, Rating (average rating for movies w/ >5 ratings), Genre, and Title
 
-Cleaned and explored the data using Jupyter Notebook 
+## **Phase Two**
 
-Created a "cleaned_movies.csv" which includes MovieID, Rating (average rating for movies w/ >5 ratings), Genre, and Title
+-Created a python files to give movie recommendations
+-The "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
+- The "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user chose
 
-## Phase Two
+## **Phase Three**
 
-Created a python files to give movie recommendations
-
-the "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
-
-The  "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user chose
-
-## Phase Three
-
-Created a new python file "where_to_watch.py" that uses The Movie Data Base (TMDb) API 
-I used dotenv to manage API-Keys securely 
-Retrieves where a movie could be in real time:
+- Created a new python file "where_to_watch.py" that uses The Movie Data Base (TMDb) API 
+- I used dotenv to manage API-Keys securely 
+- Retrieves where a movie could be in real time:
   - Streamed: Netflix, Disney Plus, Hulu, etc 
   - Bought or Rented
 
-## How To Run The Project
+## **How To Run The Project**
 ### 1. Clone my repo:
 ```bash
 git clone https://github.com/rkturer/movie-recommender.git
@@ -68,9 +63,8 @@ python recommender.py
 
 ## About The Creator
 - Rachel Turer - Computer Science and Statistics Major At BU
-- email: rkturer@gmail.com
-- LinkedIn [Link Text](https://www.linkedin.com/in/rkturer/)
-
+- email: <a href="mailto:rkturer@gmail.com" target="_blank">rkturer@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/rkturer/" target="_blank">LinkedIn Profile</a>
 
 
 
