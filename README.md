@@ -48,7 +48,7 @@ pip install pandas requests python-dotenv
 ```ini
 TMDB_API_KEY=your_api_key_here
 ```
--If you do NOT already have a key: Go to The Movie Data Base and create an account (It's free), get your key, follow step above
+-If you do NOT already have a key: Go to The Movie Data Base and create an account (it's free), get your key, follow step above
 
 ### 4. Run the program
 ```bash
@@ -67,9 +67,7 @@ python recommender.py
 
 ## About The Creator
 - Rachel Turer - Computer Science and Statistics Major At BU
-- email: <a href="mailto:rkturer@gmail.com" target="_blank">rkturer@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/rachel-turer-857b67385" target="_blank">LinkedIn Profile</a>
-
-
+- Email: [rkturer@gmail.com](mailto:rkturer@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rachel-turer-857b67385)
 
 
