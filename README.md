@@ -45,11 +45,11 @@ pip install pandas requests python-dotenv
 ```
 
 3. Add/Create your API-KEY
-- If you already have a key:
-Create an .env file and add
+- If you already have a key: create an .env file and add
 ```ini
 TMDB_API_KEY=your_api_key_here
 ```
+-If you do NOT already have a key: Go to The Movie Data Base and create an account (It's free), get your key, follow step above
 
 4. Run the program
 ```bash
