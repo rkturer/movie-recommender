@@ -10,8 +10,8 @@
 
 ## **Phase Two**
 
--Created a python files to give movie recommendations
--The "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
+- Created a python files to give movie recommendations
+- The "user_input.py" file handles user input in the terminal and returns the genre of the user's choosing
 - The "recommender.py" file reads the my cleaned_movies.csv file and retrieves the highest rated movie from the genre the user chose
 
 ## **Phase Three**
