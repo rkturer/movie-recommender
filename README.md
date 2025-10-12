@@ -43,7 +43,7 @@ This project requires:
 pip install pandas requests python-dotenv
 ```
 
-### 3. Add/Create your API-KEY
+### 3. Add/Create Your Own API-KEY
 - If you already have a key: create an .env file and add
 ```ini
 TMDB_API_KEY=your_api_key_here
