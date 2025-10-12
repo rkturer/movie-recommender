@@ -1,6 +1,6 @@
 # **Project in Progress!!!**
 
-## 🎬🎬🎬 A movie recommending program 🎬🎬🎬
+## 🎬🎬🎬 A Movie Recommending Program 🎬🎬🎬
 
 ## **Phase One**
 
