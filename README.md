@@ -67,8 +67,8 @@ python recommender.py
 
 ## About The Creator
 - Rachel Turer - Computer Science and Statistics Major At BU
-- email: <a href="mailto:rkturer@gmail.com" target="_blank">rkturer@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/rkturer/" target="_blank">LinkedIn Profile</a>
+- email:  <li><a href= "mailto:rkturer@gmail.com" target= "_blank"></li>
+- LinkedIn: <a href= "https://www.linkedin.com/in/rachel-turer-857b67385" target= "_blank">
 
 
 
