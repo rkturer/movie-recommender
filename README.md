@@ -3,7 +3,7 @@ Project in Progress!!!
 
 🎬🎬🎬 A movie recommending program 🎬🎬🎬
 
-##**phase one**
+#**phase one**
 
 Downloaded three data sets (movies.dat, user.dat and ratings.dat) off of Movie Lens 
 
