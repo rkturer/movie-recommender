@@ -52,7 +52,7 @@ TMDB_API_KEY=your_api_key_here
 
 ### 4. Run the program
 ```bash
-python recommender.py
+python app.py
 ```
 
 ### 5. Follow the Terminal Prompts
