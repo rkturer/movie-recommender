@@ -1,5 +1,7 @@
 # **Project in Progress!!!**
 
+[![Website Preview](/images/movie-recommender.jpg)]
+
 ## 🎬🎬🎬 A Movie Recommending Program 🎬🎬🎬
 
 ## **Phase One**
