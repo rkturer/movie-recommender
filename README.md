@@ -1,6 +1,6 @@
 # **Project in Progress!!!**
 
-[![Screen Shot of Program Running in Terminal](/images/movie-recommender.jpg)]
+![Screen Shot of Program Running in Terminal](/images/movie-recommender.jpg)
 
 ## 🎬🎬🎬 A Movie Recommending Program 🎬🎬🎬
 
